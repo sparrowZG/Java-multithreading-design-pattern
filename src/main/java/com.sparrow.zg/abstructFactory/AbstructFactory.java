@@ -163,5 +163,8 @@ public class AbstructFactory {
 		iUserDao.insert(user);
 		iDepartment.insert(user);
 		 */
+		//第四版: 使用简单工厂+抽象工厂
+		//第五版: 使用反射
+
 	}
 }
